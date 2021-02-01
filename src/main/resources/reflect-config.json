@@ -1,0 +1,72 @@
+[
+	{
+		"name": "java.lang.Class",
+		"allDeclaredConstructors": true,
+		"allPublicConstructors": true,
+		"allDeclaredMethods": true,
+		"allPublicMethods": true
+	},
+	{
+		"name": "java.lang.Exception",
+		"allDeclaredConstructors": true,
+		"allPublicConstructors": true,
+		"allDeclaredMethods": true,
+		"allPublicMethods": true
+	},
+	{
+		"name": "java.lang.Integer",
+		"allDeclaredConstructors": true,
+		"allPublicConstructors": true,
+		"allDeclaredMethods": true,
+		"allPublicMethods": true
+	},
+	{
+		"name": "java.lang.Long",
+		"allDeclaredConstructors": true,
+		"allPublicConstructors": true,
+		"allDeclaredMethods": true,
+		"allPublicMethods": true
+	},
+	{
+		"name": "java.lang.Boolean",
+		"allDeclaredConstructors": true,
+		"allPublicConstructors": true,
+		"allDeclaredMethods": true,
+		"allPublicMethods": true
+	},
+	{
+		"name": "java.lang.Byte",
+		"allDeclaredConstructors": true,
+		"allPublicConstructors": true,
+		"allDeclaredMethods": true,
+		"allPublicMethods": true
+	},
+	{
+		"name": "java.lang.Short",
+		"allDeclaredConstructors": true,
+		"allPublicConstructors": true,
+		"allDeclaredMethods": true,
+		"allPublicMethods": true
+	},
+	{
+		"name": "java.lang.Float",
+		"allDeclaredConstructors": true,
+		"allPublicConstructors": true,
+		"allDeclaredMethods": true,
+		"allPublicMethods": true
+	},
+	{
+		"name": "java.lang.Double",
+		"allDeclaredConstructors": true,
+		"allPublicConstructors": true,
+		"allDeclaredMethods": true,
+		"allPublicMethods": true
+	},
+	{
+		"name": "org.openxmlformats.schemas.spreadsheetml.x2006.main.impl.CTStylesheetImpl",
+		"allDeclaredConstructors": true,
+		"allPublicConstructors": true,
+		"allDeclaredMethods": true,
+		"allPublicMethods": true
+	}
+]
